@@ -1,0 +1,14 @@
+Urls Table, Implemented as Class
+_________________________________
+
+String Var Key (Uniquely Generated)
+String Var Url
+Integer Var Count (Initially Zero)
+
+
+Code Structuring
+_________________
+
+If-else ladder
+New features can be added by checking for more conditions
+
